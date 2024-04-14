@@ -1,0 +1,10 @@
+ext.versions = [
+        springboot                  :              '3.0.2',     //SpringBoot版本号
+        lombok                      :              '1.18.30',   //Lombok版本号
+        fastjson                    :              '6:2.0.42'   //FastJSON组件版本号
+]
+ext.libraries = [
+        'spring-boot-gradle-plugin' : "org.springframework.boot:spring-boot-gradle-plugin:${versions.springboot}",
+        'lombok' : "org.projectlombok:lombok:${versions.lombok}",
+        'fastjson' : "com.alibaba.fastjson2:fastjson2-extension-spring6:${versions.fastjson}"
+]

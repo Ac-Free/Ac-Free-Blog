@@ -1,0 +1,72 @@
+server:
+  port: 7777
+
+
+
+
+#----------------------      mybatis-plus配置信息
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      logic-delete-field: delFlag
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+      id-type: auto
+
+
+
+#----------------------      mybatis配置信息
+#mybatis:
+#  config-location: classpath:META-INFO/mybatis/mybatis-config.xml  #mybatis配置文件所在路径
+#  type-aliases-package: com.zyc.entity  #定义所有操作类的别名所在包
+#  mapper-locations: classpath:META-INFO/mybatis/mapper/*Mapper.xml #所有的mapper映射文件
+
+
+
+
+#----------------------      druid配置信息
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    #数据源基本信息，也可放在druid下
+    url: jdbc:mysql://localhost:3306/sg_blog?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai&tinyInt1isBit=false
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    druid:
+      #SpringBoot因为默认是hikari数据源所以对于其他数据源默认是不注入这些属性的，需要手动配置
+      #druid数据源专有配置
+      initialSize: 5
+      minIdle: 5
+      maxActive: 20   #最大可提供的连接数量
+      maxWait: 600000 #最长等待时间
+      # 主要配置以上几个即可
+      timeBetweenEvictionRunsMillis: 600000 #关闭空闲连接间隔（毫秒）
+      minEvictableIdleTimeMillis: 300000  #连接最小的生存时间
+      validationQuery: SELECT 1 FROM DUAL #数据库状态检测
+      testWhileIdle: true #判断链接是否可用
+      testOnBorrow: false #在获得连接之前是否要进行测试
+      testOnReturn: false #归还连接前是否需要测试
+      poolPreparedStatements: false #不缓存PSTMT
+      #配置监控统计拦截的filters：stat:监控统计、self4j(使用log4j的记得导入log4j的依赖）：日志记录、wall：防御sql注入 此处配置不能遗漏服务sql监控台不能监控sql
+      filter:
+        slf4j:
+          enabled: true
+        stat:
+          enabled: true
+          merge-sql: true
+          slow-sql-millis: 5000
+        wall:
+          enabled: true
+      #配置stat-view-servlet
+      stat-view-servlet:
+        enabled: true
+        login-username: admin
+        login-password: 123456
+        reset-enable: false
+      #配置web-stat-filter
+      web-stat-filter:
+        enabled: true
+

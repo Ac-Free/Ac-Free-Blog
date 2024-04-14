@@ -1,0 +1,36 @@
+2024-04-13 17:00:12.148 INFO  [restartedMain]com.zyc.MicroBootApplication.logStarting:51 -Starting MicroBootApplication using Java 17.0.10 with PID 7508 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot)
+2024-04-13 17:00:12.150 INFO  [restartedMain]com.zyc.MicroBootApplication.logStartupProfileInfo:636 -The following 1 profile is active: "dev"
+2024-04-13 17:00:12.182 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:250 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 17:00:12.182 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:250 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 17:00:12.946 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2024-04-13 17:00:12.955 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 17:00:12.956 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2024-04-13 17:00:12.956 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 17:00:13.002 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2024-04-13 17:00:13.002 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:291 -Root WebApplicationContext: initialization completed in 819 ms
+2024-04-13 17:00:13.023 INFO  [restartedMain]org.springframework.boot.web.servlet.RegistrationBean.register:109 -Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 17:00:13.440 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:59 -LiveReload server is running on port 35729
+2024-04-13 17:00:13.454 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2024-04-13 17:00:13.468 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-13 17:00:13.479 INFO  [restartedMain]com.zyc.MicroBootApplication.logStarted:57 -Started MicroBootApplication in 1.697 seconds (process running for 2.055)
+2024-04-13 17:00:23.940 INFO  [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-13 17:00:23.940 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:532 -Initializing Servlet 'dispatcherServlet'
+2024-04-13 17:00:23.941 INFO  [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:554 -Completed initialization in 1 ms
+2024-04-13 17:01:11.295 INFO  [SpringApplicationShutdownHook]com.alibaba.druid.pool.DruidDataSource.close:2105 -{dataSource-0} closing ...
+2024-04-13 17:36:45.134 INFO  [restartedMain]com.zyc.MicroBootApplication.logStarting:51 -Starting MicroBootApplication using Java 17.0.10 with PID 9576 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot)
+2024-04-13 17:36:45.136 INFO  [restartedMain]com.zyc.MicroBootApplication.logStartupProfileInfo:636 -The following 1 profile is active: "dev"
+2024-04-13 17:36:45.167 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:250 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 17:36:45.167 INFO  [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:250 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 17:36:45.918 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8080 (http)
+2024-04-13 17:36:45.925 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 17:36:45.925 INFO  [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2024-04-13 17:36:45.925 INFO  [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 17:36:45.961 INFO  [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2024-04-13 17:36:45.961 INFO  [restartedMain]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:291 -Root WebApplicationContext: initialization completed in 793 ms
+2024-04-13 17:36:45.979 INFO  [restartedMain]org.springframework.boot.web.servlet.RegistrationBean.register:109 -Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 17:36:46.432 INFO  [restartedMain]o.s.security.web.DefaultSecurityFilterChain.<init>:54 -Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@5c8d2a8, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@13097e4, org.springframework.security.web.context.SecurityContextHolderFilter@41159f00, org.springframework.security.web.header.HeaderWriterFilter@343fc525, org.springframework.security.web.csrf.CsrfFilter@55c8485a, org.springframework.security.web.authentication.logout.LogoutFilter@4419c9fd, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@3459d116, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@59864843, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@6b69d580, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@36b6495c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1e3ddbdd, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6fc4f6c0, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@246a8123, org.springframework.security.web.access.ExceptionTranslationFilter@1c556a77, org.springframework.security.web.access.intercept.AuthorizationFilter@3c43aed4]
+2024-04-13 17:36:46.458 INFO  [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:59 -LiveReload server is running on port 35729
+2024-04-13 17:36:46.474 INFO  [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2024-04-13 17:36:46.488 INFO  [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-13 17:36:46.495 INFO  [restartedMain]com.zyc.MicroBootApplication.logStarted:57 -Started MicroBootApplication in 1.725 seconds (process running for 2.084)
+2024-04-13 17:36:48.315 INFO  [SpringApplicationShutdownHook]com.alibaba.druid.pool.DruidDataSource.close:2105 -{dataSource-0} closing ...

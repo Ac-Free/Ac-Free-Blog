@@ -1,0 +1,325 @@
+2024-04-13 15:15:30.239 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 20172 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 15:15:30.241 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 15:15:30.273 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 15:15:30.273 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 15:15:30.476 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 15:19:41.804 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 6396 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 15:19:41.806 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 15:19:41.837 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 15:19:41.837 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 15:19:42.041 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 15:19:54.020 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 13152 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 15:19:54.022 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 15:19:54.055 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 15:19:54.055 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 15:19:54.292 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 15:20:16.886 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 13056 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 15:20:16.887 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 15:20:16.919 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 15:20:16.919 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 15:20:17.558 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 15:20:17.567 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 15:20:17.567 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 15:20:17.567 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 15:20:17.608 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 15:20:17.609 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 689 ms
+2024-04-13 15:20:17.625 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 15:20:17.658 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 15:20:17.706 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 15:29:15.142 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 10044 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 15:29:15.144 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 15:29:15.176 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 15:29:15.177 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 15:29:15.774 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 15:29:15.782 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 15:29:15.783 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 15:29:15.783 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 15:29:15.819 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 15:29:15.819 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 642 ms
+2024-04-13 15:29:15.836 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 15:29:15.865 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 15:29:15.909 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 15:29:37.630 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 5216 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 15:29:37.632 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 15:29:37.664 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 15:29:37.664 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 15:29:38.264 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 15:29:38.271 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 15:29:38.272 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 15:29:38.272 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 15:29:38.307 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 15:29:38.308 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 644 ms
+2024-04-13 15:29:38.324 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 15:29:38.353 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 15:29:38.401 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 15:32:58.680 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 9240 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 15:32:58.682 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 15:32:58.714 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 15:32:58.715 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 15:32:59.304 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 15:32:59.311 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 15:32:59.312 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 15:32:59.312 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 15:32:59.348 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 15:32:59.348 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 633 ms
+2024-04-13 15:32:59.364 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 15:32:59.393 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 15:32:59.435 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 16:09:14.903 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 14416 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 16:09:14.904 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 16:09:14.935 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 16:09:14.935 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 16:09:15.633 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 16:09:15.640 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:09:15.641 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 16:09:15.641 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 16:09:15.677 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 16:09:15.678 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 742 ms
+2024-04-13 16:09:15.693 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 16:09:15.761 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2024-04-13 16:09:15.762 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 16:09:15.803 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 16:10:58.851 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 1620 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 16:10:58.853 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 16:10:58.882 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 16:10:58.882 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 16:10:59.546 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 16:10:59.553 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:10:59.554 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 16:10:59.554 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 16:10:59.592 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 16:10:59.592 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 709 ms
+2024-04-13 16:10:59.608 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 16:10:59.675 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2024-04-13 16:10:59.676 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 16:10:59.719 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 16:12:25.740 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 3712 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 16:12:25.742 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 16:12:25.780 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 16:12:25.780 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 16:12:26.522 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 16:12:26.531 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:12:26.532 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 16:12:26.532 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 16:12:26.577 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 16:12:26.577 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 796 ms
+2024-04-13 16:12:26.594 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 16:12:26.628 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 16:12:26.675 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 16:16:09.798 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 19192 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 16:16:09.800 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 16:16:09.832 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 16:16:09.833 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 16:16:10.495 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 16:16:10.502 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:16:10.503 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 16:16:10.503 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 16:16:10.539 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 16:16:10.539 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 706 ms
+2024-04-13 16:16:10.555 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 16:16:10.586 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 16:16:10.634 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 16:17:15.200 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 16836 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 16:17:15.202 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 16:17:15.234 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 16:17:15.235 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 16:17:15.919 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 16:17:15.926 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:17:15.927 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 16:17:15.927 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 16:17:15.963 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 16:17:15.964 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 729 ms
+2024-04-13 16:17:15.980 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 16:17:16.012 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 16:17:16.059 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 16:20:39.732 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 19256 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 16:20:39.735 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 16:20:39.771 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 16:20:39.771 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 16:20:40.446 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 16:20:40.453 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:20:40.453 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 16:20:40.454 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 16:20:40.491 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 16:20:40.491 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 720 ms
+2024-04-13 16:20:40.508 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 16:20:40.576 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2024-04-13 16:20:40.578 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 16:20:40.620 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 16:23:02.603 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 6168 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 16:23:02.605 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 16:23:02.636 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 16:23:02.636 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 16:23:03.293 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 16:23:03.300 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:23:03.301 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 16:23:03.301 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 16:23:03.338 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 16:23:03.339 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 702 ms
+2024-04-13 16:23:03.355 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 16:23:03.420 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2024-04-13 16:23:03.425 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 16:23:03.467 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 16:26:34.946 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 12920 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 16:26:34.947 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 16:26:34.978 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 16:26:34.978 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 16:26:35.659 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 16:26:35.666 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:26:35.667 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 16:26:35.667 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 16:26:35.704 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 16:26:35.705 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 727 ms
+2024-04-13 16:26:35.721 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 16:26:35.792 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2024-04-13 16:26:35.794 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 16:26:35.847 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 16:29:15.039 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 11596 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 16:29:15.041 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 16:29:15.079 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 16:29:15.079 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 16:29:15.744 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 16:29:15.751 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:29:15.751 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 16:29:15.751 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 16:29:15.788 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 16:29:15.789 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 709 ms
+2024-04-13 16:29:15.804 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 16:29:15.870 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2024-04-13 16:29:15.873 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 16:29:15.913 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 16:30:09.991 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 19624 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 16:30:09.993 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 16:30:10.024 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 16:30:10.024 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 16:30:10.702 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 16:30:10.709 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:30:10.710 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 16:30:10.710 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 16:30:10.746 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 16:30:10.747 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 723 ms
+2024-04-13 16:30:10.762 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 16:30:10.789 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 16:30:10.841 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 16:36:56.383 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 12972 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 16:36:56.384 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 16:36:56.415 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 16:36:56.415 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 16:36:57.066 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 16:36:57.073 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:36:57.074 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 16:36:57.074 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 16:36:57.110 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 16:36:57.110 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 695 ms
+2024-04-13 16:36:57.127 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 16:36:57.155 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 16:36:57.203 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 16:47:10.798 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 15172 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 16:47:10.800 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 16:47:10.830 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 16:47:10.830 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 16:47:11.543 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 16:47:11.550 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:47:11.551 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 16:47:11.551 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 16:47:11.588 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 16:47:11.588 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 758 ms
+2024-04-13 16:47:11.603 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 16:47:11.635 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 16:47:11.681 [restartedMain] INFO  o.s.b.a.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-13 16:49:53.645 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 12700 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 16:49:53.647 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 16:49:53.676 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 16:49:53.677 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 16:49:54.359 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 16:49:54.366 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:49:54.367 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 16:49:54.367 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 16:49:54.403 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 16:49:54.403 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 726 ms
+2024-04-13 16:49:54.419 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 16:49:54.783 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-04-13 16:49:54.793 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:49:54.807 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-13 16:49:54.814 [restartedMain] INFO  com.zyc.MicroBootApplication - Started MicroBootApplication in 1.554 seconds (process running for 1.811)
+2024-04-13 16:49:57.218 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 20 class path changes (0 additions, 20 deletions, 0 modifications)
+2024-04-13 16:49:57.235 [Thread-5] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:49:57.236 [Thread-5] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 16:49:57.287 [Thread-5] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:49:57.289 [Thread-5] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:49:57.291 [Thread-5] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2024-04-13 16:49:57.366 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 12700 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 16:49:57.366 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 16:49:57.577 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 16:49:57.578 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:49:57.578 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 16:49:57.578 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 16:49:57.588 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 16:49:57.588 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 220 ms
+2024-04-13 16:49:57.597 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 16:49:57.691 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-04-13 16:49:57.698 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:49:57.701 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-13 16:49:57.704 [restartedMain] INFO  com.zyc.MicroBootApplication - Started MicroBootApplication in 0.376 seconds (process running for 4.701)
+2024-04-13 16:49:57.705 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-04-13 16:49:59.129 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 20 class path changes (20 additions, 0 deletions, 0 modifications)
+2024-04-13 16:49:59.136 [Thread-7] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:49:59.137 [Thread-7] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-04-13 16:49:59.138 [Thread-7] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:49:59.139 [Thread-7] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:49:59.140 [Thread-7] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2024-04-13 16:49:59.194 [restartedMain] INFO  com.zyc.MicroBootApplication - Starting MicroBootApplication using Java 17.0.10 with PID 12700 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 16:49:59.195 [restartedMain] INFO  com.zyc.MicroBootApplication - The following 1 profile is active: "dev"
+2024-04-13 16:49:59.346 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-04-13 16:49:59.347 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:49:59.347 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-13 16:49:59.347 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 16:49:59.354 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-13 16:49:59.354 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 158 ms
+2024-04-13 16:49:59.361 [restartedMain] INFO  o.s.boot.web.servlet.RegistrationBean - Filter characterEncodingFilter was not registered (possibly already registered?)
+2024-04-13 16:49:59.441 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-04-13 16:49:59.447 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-13 16:49:59.451 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-13 16:49:59.454 [restartedMain] INFO  com.zyc.MicroBootApplication - Started MicroBootApplication in 0.289 seconds (process running for 6.451)
+2024-04-13 16:49:59.455 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-04-13 16:50:17.119 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-13 16:50:17.119 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-13 16:50:17.120 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms

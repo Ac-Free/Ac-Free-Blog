@@ -1,0 +1,20 @@
+repositories {
+    mavenCentral()
+}
+
+springBoot {
+    mainClass = 'com.zyc.MicroBootApplication'
+}
+
+dependencies {
+    implementation(project(':microboot-framework'))
+    implementation(project(':microboot-admin'))
+}
+
+bootJar{
+    archiveClassifier = 'lee'   //打包文件追加一个后缀
+    archiveBaseName = 'zycboot' //设置打包文件名称
+    archiveVersion = project_version
+    mainClass = 'com.zyc.MicroBootApplication'  //启动类
+
+}

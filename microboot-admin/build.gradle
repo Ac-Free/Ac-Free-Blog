@@ -1,0 +1,19 @@
+repositories {
+    mavenCentral()
+}
+
+javadoc{
+    enabled = false;
+}
+
+bootRun{
+    enabled = false
+}
+
+bootJar{
+    enabled = false
+}
+
+jar {
+    enabled = true
+}

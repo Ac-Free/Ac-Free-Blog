@@ -1,0 +1,134 @@
+17:01:13.305 [restartedMain] INFO  c.z.MicroBootApplication - [logStarting,51] - Starting MicroBootApplication using Java 17.0.10 with PID 14612 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot)
+17:01:13.307 [restartedMain] INFO  c.z.MicroBootApplication - [logStartupProfileInfo,636] - The following 1 profile is active: "dev"
+17:01:13.339 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,250] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+17:01:13.339 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,250] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+17:01:14.109 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+17:01:14.117 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+17:01:14.118 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:01:14.118 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.5]
+17:01:14.163 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:01:14.164 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,291] - Root WebApplicationContext: initialization completed in 823 ms
+17:01:14.182 [restartedMain] INFO  o.s.b.w.s.RegistrationBean - [register,109] - Filter characterEncodingFilter was not registered (possibly already registered?)
+17:01:14.641 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,59] - LiveReload server is running on port 35729
+17:01:14.658 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+17:01:14.676 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+17:01:14.690 [restartedMain] INFO  c.z.MicroBootApplication - [logStarted,57] - Started MicroBootApplication in 1.762 seconds (process running for 2.164)
+17:01:43.152 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:01:43.152 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,532] - Initializing Servlet 'dispatcherServlet'
+17:01:43.153 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,554] - Completed initialization in 1 ms
+17:02:02.262 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2105] - {dataSource-0} closing ...
+17:02:11.257 [restartedMain] INFO  c.z.MicroBootApplication - [logStarting,51] - Starting MicroBootApplication using Java 17.0.10 with PID 8636 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot)
+17:02:11.259 [restartedMain] INFO  c.z.MicroBootApplication - [logStartupProfileInfo,636] - The following 1 profile is active: "dev"
+17:02:11.289 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,250] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+17:02:11.289 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,250] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+17:02:12.043 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+17:02:12.052 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+17:02:12.053 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:02:12.053 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.5]
+17:02:12.095 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:02:12.097 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,291] - Root WebApplicationContext: initialization completed in 807 ms
+17:02:12.114 [restartedMain] INFO  o.s.b.w.s.RegistrationBean - [register,109] - Filter characterEncodingFilter was not registered (possibly already registered?)
+17:02:12.486 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,59] - LiveReload server is running on port 35729
+17:02:12.502 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+17:02:12.516 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+17:02:12.523 [restartedMain] INFO  c.z.MicroBootApplication - [logStarted,57] - Started MicroBootApplication in 1.624 seconds (process running for 1.985)
+17:02:15.685 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:02:15.685 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,532] - Initializing Servlet 'dispatcherServlet'
+17:02:15.686 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,554] - Completed initialization in 1 ms
+17:03:12.934 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - [onApplicationEvent,211] - Restarting due to 29 class path changes (0 additions, 29 deletions, 0 modifications)
+17:03:12.943 [Thread-5] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-8080"]
+17:03:12.943 [Thread-5] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+17:03:12.944 [Thread-5] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+17:03:12.959 [Thread-5] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-8080"]
+17:03:12.961 [Thread-5] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-8080"]
+17:03:12.963 [Thread-5] INFO  c.a.d.p.DruidDataSource - [close,2105] - {dataSource-0} closing ...
+17:03:14.686 [restartedMain] INFO  c.z.MicroBootApplication - [logStarting,51] - Starting MicroBootApplication using Java 17.0.10 with PID 8636 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot)
+17:03:14.686 [restartedMain] INFO  c.z.MicroBootApplication - [logStartupProfileInfo,636] - The following 1 profile is active: "dev"
+17:03:14.841 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+17:03:14.842 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:03:14.842 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.5]
+17:03:14.850 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:03:14.850 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,291] - Root WebApplicationContext: initialization completed in 162 ms
+17:03:14.855 [restartedMain] INFO  o.s.b.w.s.RegistrationBean - [register,109] - Filter characterEncodingFilter was not registered (possibly already registered?)
+17:03:14.932 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,59] - LiveReload server is running on port 35729
+17:03:14.941 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+17:03:14.944 [restartedMain] INFO  c.z.MicroBootApplication - [logStarted,57] - Started MicroBootApplication in 0.284 seconds (process running for 64.407)
+17:03:14.945 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [onApplicationEvent,63] - Condition evaluation unchanged
+17:03:26.567 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - [onApplicationEvent,211] - Restarting due to 21 class path changes (0 additions, 20 deletions, 1 modification)
+17:03:26.579 [Thread-7] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+17:03:26.585 [Thread-7] INFO  c.a.d.p.DruidDataSource - [close,2105] - {dataSource-0} closing ...
+17:03:26.686 [restartedMain] INFO  c.z.MicroBootApplication - [logStarting,51] - Starting MicroBootApplication using Java 17.0.10 with PID 8636 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot)
+17:03:26.686 [restartedMain] INFO  c.z.MicroBootApplication - [logStartupProfileInfo,636] - The following 1 profile is active: "dev"
+17:03:28.315 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,250] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+17:03:28.315 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,250] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+17:03:28.318 [restartedMain] INFO  c.z.MicroBootApplication - [logStarting,51] - Starting MicroBootApplication using Java 17.0.10 with PID 8636 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot)
+17:03:28.318 [restartedMain] INFO  c.z.MicroBootApplication - [logStartupProfileInfo,636] - The following 1 profile is active: "dev"
+17:03:28.452 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+17:03:28.452 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:03:28.452 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.5]
+17:03:28.459 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:03:28.459 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,291] - Root WebApplicationContext: initialization completed in 138 ms
+17:03:28.464 [restartedMain] INFO  o.s.b.w.s.RegistrationBean - [register,109] - Filter characterEncodingFilter was not registered (possibly already registered?)
+17:03:28.531 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,59] - LiveReload server is running on port 35729
+17:03:28.540 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+17:03:28.542 [restartedMain] INFO  c.z.MicroBootApplication - [logStarted,57] - Started MicroBootApplication in 0.238 seconds (process running for 78.005)
+17:03:28.543 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [onApplicationEvent,63] - Condition evaluation unchanged
+17:04:04.348 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - [onApplicationEvent,211] - Restarting due to 29 class path changes (0 additions, 0 deletions, 29 modifications)
+17:04:04.357 [Thread-14] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+17:04:04.360 [Thread-14] INFO  c.a.d.p.DruidDataSource - [close,2105] - {dataSource-0} closing ...
+17:04:04.410 [restartedMain] INFO  c.z.MicroBootApplication - [logStarting,51] - Starting MicroBootApplication using Java 17.0.10 with PID 8636 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot)
+17:04:04.410 [restartedMain] INFO  c.z.MicroBootApplication - [logStartupProfileInfo,636] - The following 1 profile is active: "dev"
+17:04:04.543 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+17:04:04.544 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:04:04.544 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.5]
+17:04:04.550 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:04:04.550 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,291] - Root WebApplicationContext: initialization completed in 138 ms
+17:04:04.555 [restartedMain] INFO  o.s.b.w.s.RegistrationBean - [register,109] - Filter characterEncodingFilter was not registered (possibly already registered?)
+17:04:04.621 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,59] - LiveReload server is running on port 35729
+17:04:04.631 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+17:04:04.633 [restartedMain] INFO  c.z.MicroBootApplication - [logStarted,57] - Started MicroBootApplication in 0.244 seconds (process running for 114.095)
+17:04:04.633 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - [onApplicationEvent,63] - Condition evaluation unchanged
+17:04:06.687 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:04:06.687 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,532] - Initializing Servlet 'dispatcherServlet'
+17:04:06.687 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,554] - Completed initialization in 0 ms
+17:04:06.719 [http-nio-8080-exec-1] INFO  c.a.d.p.DruidDataSource - [init,985] - {dataSource-1} inited
+17:04:16.505 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2105] - {dataSource-1} closing ...
+17:04:16.509 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2178] - {dataSource-1} closed
+17:04:21.747 [restartedMain] INFO  c.z.MicroBootApplication - [logStarting,51] - Starting MicroBootApplication using Java 17.0.10 with PID 8528 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot)
+17:04:21.750 [restartedMain] INFO  c.z.MicroBootApplication - [logStartupProfileInfo,636] - The following 1 profile is active: "dev"
+17:04:21.779 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,250] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+17:04:21.780 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,250] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+17:04:22.470 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+17:04:22.478 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+17:04:22.479 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:04:22.479 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.5]
+17:04:22.515 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:04:22.516 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,291] - Root WebApplicationContext: initialization completed in 736 ms
+17:04:22.532 [restartedMain] INFO  o.s.b.w.s.RegistrationBean - [register,109] - Filter characterEncodingFilter was not registered (possibly already registered?)
+17:04:22.902 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,59] - LiveReload server is running on port 35729
+17:04:22.916 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+17:04:22.929 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+17:04:22.936 [restartedMain] INFO  c.z.MicroBootApplication - [logStarted,57] - Started MicroBootApplication in 1.543 seconds (process running for 1.903)
+17:04:32.031 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:04:32.032 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,532] - Initializing Servlet 'dispatcherServlet'
+17:04:32.032 [http-nio-8080-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,554] - Completed initialization in 0 ms
+17:04:32.092 [http-nio-8080-exec-1] INFO  c.a.d.p.DruidDataSource - [init,985] - {dataSource-1} inited
+17:04:44.416 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2105] - {dataSource-1} closing ...
+17:04:44.421 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2178] - {dataSource-1} closed
+17:36:10.816 [restartedMain] INFO  c.z.MicroBootApplication - [logStarting,51] - Starting MicroBootApplication using Java 17.0.10 with PID 21308 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot)
+17:36:10.818 [restartedMain] INFO  c.z.MicroBootApplication - [logStartupProfileInfo,636] - The following 1 profile is active: "dev"
+17:36:10.848 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,250] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+17:36:10.848 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,250] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+17:36:11.569 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 8080 (http)
+17:36:11.575 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+17:36:11.576 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+17:36:11.576 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/10.1.5]
+17:36:11.613 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+17:36:11.613 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,291] - Root WebApplicationContext: initialization completed in 764 ms
+17:36:11.631 [restartedMain] INFO  o.s.b.w.s.RegistrationBean - [register,109] - Filter characterEncodingFilter was not registered (possibly already registered?)
+17:36:12.119 [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain - [<init>,54] - Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@224dd54e, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@76867251, org.springframework.security.web.context.SecurityContextHolderFilter@1a664650, org.springframework.security.web.header.HeaderWriterFilter@26af2d0d, org.springframework.security.web.csrf.CsrfFilter@57634ea2, org.springframework.security.web.authentication.logout.LogoutFilter@3bdc243d, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@1fa736ba, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@7cf69925, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@395f50ce, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@37fc6c6a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@45411bbf, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@545ec094, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1cc33e5e, org.springframework.security.web.access.ExceptionTranslationFilter@60ca9a1c, org.springframework.security.web.access.intercept.AuthorizationFilter@30c9ed21]
+17:36:12.158 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,59] - LiveReload server is running on port 35729
+17:36:12.176 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+17:36:12.193 [restartedMain] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 8080 (http) with context path ''
+17:36:12.201 [restartedMain] INFO  c.z.MicroBootApplication - [logStarted,57] - Started MicroBootApplication in 1.738 seconds (process running for 2.103)
+17:36:16.073 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2105] - {dataSource-0} closing ...

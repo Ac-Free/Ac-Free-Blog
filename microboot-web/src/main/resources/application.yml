@@ -1,0 +1,28 @@
+spring:
+  profiles:
+    active: dev #指的就是后缀名称
+  main:
+    allow-circular-references: true
+server:
+  tomcat:
+    uri-encoding: UTF-8
+  servlet:
+    encoding:
+      force: true
+      charset: UTF-8
+      enabled: true
+
+logging:
+  config: classpath:logback-spring.xml
+  level:
+    root: info
+  file:
+    path: zyc-logs  #日志保存路径
+
+
+
+
+
+
+
+

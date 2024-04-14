@@ -1,0 +1,33 @@
+2024-04-13 19:04:58.920 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 8564 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 19:04:58.921 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-13 19:04:58.952 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 19:04:58.953 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 19:04:59.661 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-04-13 19:04:59.668 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 19:04:59.669 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-13 19:04:59.669 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 19:04:59.705 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-13 19:04:59.706 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 752 ms
+2024-04-13 19:04:59.988 [INFO ] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@4e77f52f, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@30a0350a, org.springframework.security.web.context.SecurityContextHolderFilter@2e84e47d, org.springframework.security.web.header.HeaderWriterFilter@6efc514f, org.springframework.security.web.csrf.CsrfFilter@4157e20e, org.springframework.security.web.authentication.logout.LogoutFilter@5314a137, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@242a803c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@71c085a2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@258f8604, org.springframework.security.web.access.ExceptionTranslationFilter@3dda863c]
+2024-04-13 19:05:00.198 [INFO ] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-13 19:05:00.210 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2024-04-13 19:05:00.224 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-13 19:05:00.231 [INFO ] com.zyc.MicroBootApplication             : Started MicroBootApplication in 1.7 seconds (process running for 1.973)
+2024-04-13 19:27:55.056 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 23096 (D:\Item\microboot\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\microboot\microboot\microboot-web)
+2024-04-13 19:27:55.058 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-13 19:27:55.087 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-13 19:27:55.087 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-13 19:27:55.812 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-04-13 19:27:55.820 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-13 19:27:55.820 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-13 19:27:55.821 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-13 19:27:55.858 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-13 19:27:55.861 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 771 ms
+2024-04-13 19:27:56.141 [INFO ] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@28cee44b, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6c445dee, org.springframework.security.web.context.SecurityContextHolderFilter@495325c5, org.springframework.security.web.header.HeaderWriterFilter@6250cef8, org.springframework.security.web.csrf.CsrfFilter@162ad68c, org.springframework.security.web.authentication.logout.LogoutFilter@d3bc8f5, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@42e2b21e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@60cdc8db, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4c1849ce, org.springframework.security.web.access.ExceptionTranslationFilter@2459ec6a]
+2024-04-13 19:27:56.320 [INFO ] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-13 19:27:56.330 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2024-04-13 19:27:56.344 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-13 19:27:56.352 [INFO ] com.zyc.MicroBootApplication             : Started MicroBootApplication in 1.652 seconds (process running for 1.907)
+2024-04-13 19:28:41.591 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-13 19:28:41.591 [INFO ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-13 19:28:41.592 [INFO ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms

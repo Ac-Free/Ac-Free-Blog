@@ -1,0 +1,5 @@
+rootProject.name = 'microboot'
+include 'microboot-web'
+include 'microboot-framework'
+include 'microboot-admin'
+

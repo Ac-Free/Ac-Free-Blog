@@ -1,0 +1,8 @@
+2024-04-13 17:00:23.962 WARN  [http-nio-8080-exec-1]o.s.core.LocalVariableTableParameterNameDiscoverer.inspectClass:123 -Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: com.zyc.controller.MessageAction
+2024-04-13 17:00:24.070 WARN  [http-nio-8080-exec-1]o.s.w.s.m.m.annotation.ExceptionHandlerExceptionResolver.logException:207 -Resolved [org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.zyc.mapper.TestMapper.findAll]
+2024-04-13 17:36:46.357 WARN  [restartedMain]o.s.b.a.s.servlet.UserDetailsServiceAutoConfiguration.getOrDeducePassword:86 -
+
+Using generated security password: 0c7d89aa-1166-4d87-8933-7779881aff33
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+

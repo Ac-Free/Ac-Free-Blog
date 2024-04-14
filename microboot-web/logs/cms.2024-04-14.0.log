@@ -1,0 +1,453 @@
+2024-04-14 11:23:40.126 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 2588 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 11:23:40.128 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 11:23:40.157 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-14 11:23:40.157 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-14 11:23:40.851 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-04-14 11:23:40.858 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-14 11:23:40.859 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 11:23:40.859 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 11:23:40.895 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 11:23:40.897 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 738 ms
+2024-04-14 11:23:41.164 [INFO ] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@34929ddd, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7b61e7b2, org.springframework.security.web.context.SecurityContextHolderFilter@4065ef0a, org.springframework.security.web.header.HeaderWriterFilter@2459ec6a, org.springframework.security.web.csrf.CsrfFilter@279918d9, org.springframework.security.web.authentication.logout.LogoutFilter@301489d9, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@495325c5, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1a7d08f1, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@28cee44b, org.springframework.security.web.access.ExceptionTranslationFilter@44d8ed7e]
+2024-04-14 11:23:41.337 [INFO ] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-14 11:23:41.347 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2024-04-14 11:23:41.361 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-14 11:23:41.367 [INFO ] com.zyc.MicroBootApplication             : Started MicroBootApplication in 1.597 seconds (process running for 1.856)
+2024-04-14 11:30:19.524 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 13300 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 11:30:19.526 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 11:30:19.556 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-14 11:30:19.556 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-14 11:30:19.905 [WARN ] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.zyc]' package. Please check your configuration.
+2024-04-14 11:30:20.201 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-04-14 11:30:20.209 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-14 11:30:20.209 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 11:30:20.210 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 11:30:20.246 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 11:30:20.248 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 691 ms
+2024-04-14 11:30:20.585 [INFO ] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-14 11:30:20.594 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2024-04-14 11:30:20.607 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-14 11:30:20.613 [INFO ] com.zyc.MicroBootApplication             : Started MicroBootApplication in 1.448 seconds (process running for 1.709)
+2024-04-14 11:51:31.002 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 9372 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 11:51:31.005 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 11:51:31.034 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-14 11:51:31.034 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-14 11:51:31.443 [WARN ] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.zyc]' package. Please check your configuration.
+2024-04-14 11:51:31.745 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-04-14 11:51:31.753 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-14 11:51:31.753 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 11:51:31.753 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 11:51:31.791 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 11:51:31.793 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 757 ms
+2024-04-14 11:51:31.845 [WARN ] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'articleController': Unsatisfied dependency expressed through field 'articleService': Error creating bean with name 'articleServiceImpl': Unsatisfied dependency expressed through field 'baseMapper': No qualifying bean of type 'com.zyc.mapper.ArticleMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-04-14 11:51:31.847 [INFO ] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-04-14 11:51:31.897 [INFO ] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-14 11:51:31.912 [ERROR] o.s.boot.SpringApplication               : Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'articleController': Unsatisfied dependency expressed through field 'articleService': Error creating bean with name 'articleServiceImpl': Unsatisfied dependency expressed through field 'baseMapper': No qualifying bean of type 'com.zyc.mapper.ArticleMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:712)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1397)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:961)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:915)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291)
+	at com.zyc.MicroBootApplication.main(MicroBootApplication.java:13)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'articleServiceImpl': Unsatisfied dependency expressed through field 'baseMapper': No qualifying bean of type 'com.zyc.mapper.ArticleMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:712)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1397)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1405)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709)
+	... 25 common frames omitted
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.zyc.mapper.ArticleMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1812)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1371)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709)
+	... 39 common frames omitted
+2024-04-14 11:54:32.884 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 5672 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 11:54:32.885 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 11:54:32.915 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-14 11:54:32.916 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-14 11:54:33.274 [WARN ] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.zyc]' package. Please check your configuration.
+2024-04-14 11:54:33.570 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-04-14 11:54:33.577 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-14 11:54:33.578 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 11:54:33.578 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 11:54:33.614 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 11:54:33.616 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 699 ms
+2024-04-14 11:54:33.667 [WARN ] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'articleController': Unsatisfied dependency expressed through field 'articleService': Error creating bean with name 'articleServiceImpl': Unsatisfied dependency expressed through field 'baseMapper': No qualifying bean of type 'com.zyc.mapper.ArticleMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-04-14 11:54:33.669 [INFO ] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-04-14 11:54:33.717 [INFO ] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-14 11:54:33.731 [ERROR] o.s.boot.SpringApplication               : Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'articleController': Unsatisfied dependency expressed through field 'articleService': Error creating bean with name 'articleServiceImpl': Unsatisfied dependency expressed through field 'baseMapper': No qualifying bean of type 'com.zyc.mapper.ArticleMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:712)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1397)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:961)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:915)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291)
+	at com.zyc.MicroBootApplication.main(MicroBootApplication.java:13)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'articleServiceImpl': Unsatisfied dependency expressed through field 'baseMapper': No qualifying bean of type 'com.zyc.mapper.ArticleMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:712)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1397)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1405)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709)
+	... 25 common frames omitted
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.zyc.mapper.ArticleMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1812)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1371)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709)
+	... 39 common frames omitted
+2024-04-14 11:55:25.881 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 18484 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 11:55:25.883 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 11:55:25.911 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-14 11:55:25.912 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-14 11:55:26.277 [WARN ] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.zyc]' package. Please check your configuration.
+2024-04-14 11:55:26.576 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-04-14 11:55:26.583 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-14 11:55:26.584 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 11:55:26.584 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 11:55:26.620 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 11:55:26.621 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 708 ms
+2024-04-14 11:55:26.672 [WARN ] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'articleController': Unsatisfied dependency expressed through field 'articleService': Error creating bean with name 'articleServiceImpl': Unsatisfied dependency expressed through field 'baseMapper': No qualifying bean of type 'com.zyc.mapper.ArticleMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2024-04-14 11:55:26.674 [INFO ] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-04-14 11:55:26.722 [INFO ] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-04-14 11:55:26.737 [ERROR] o.s.boot.SpringApplication               : Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'articleController': Unsatisfied dependency expressed through field 'articleService': Error creating bean with name 'articleServiceImpl': Unsatisfied dependency expressed through field 'baseMapper': No qualifying bean of type 'com.zyc.mapper.ArticleMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:712)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1397)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:961)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:915)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291)
+	at com.zyc.MicroBootApplication.main(MicroBootApplication.java:13)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'articleServiceImpl': Unsatisfied dependency expressed through field 'baseMapper': No qualifying bean of type 'com.zyc.mapper.ArticleMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:712)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:692)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:133)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:481)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1397)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1405)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709)
+	... 25 common frames omitted
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.zyc.mapper.ArticleMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1812)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1371)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1325)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:709)
+	... 39 common frames omitted
+2024-04-14 11:56:42.637 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 16416 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 11:56:42.639 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 11:56:42.670 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-14 11:56:42.670 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-14 11:56:43.408 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-04-14 11:56:43.416 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-14 11:56:43.416 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 11:56:43.417 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 11:56:43.453 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 11:56:43.454 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 782 ms
+2024-04-14 11:56:43.961 [INFO ] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-14 11:56:43.972 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2024-04-14 11:56:43.986 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-14 11:56:43.993 [INFO ] com.zyc.MicroBootApplication             : Started MicroBootApplication in 1.722 seconds (process running for 1.974)
+2024-04-14 11:56:47.816 [INFO ] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-04-14 11:56:47.830 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Pausing ProtocolHandler ["http-nio-8080"]
+2024-04-14 11:56:47.831 [INFO ] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-04-14 11:56:47.882 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Stopping ProtocolHandler ["http-nio-8080"]
+2024-04-14 11:56:47.884 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Destroying ProtocolHandler ["http-nio-8080"]
+2024-04-14 11:56:47.886 [INFO ] com.alibaba.druid.pool.DruidDataSource   : {dataSource-0} closing ...
+2024-04-14 11:56:47.949 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 16416 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 11:56:47.949 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 11:56:48.096 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-04-14 11:56:48.097 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-14 11:56:48.097 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 11:56:48.097 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 11:56:48.105 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 11:56:48.105 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 154 ms
+2024-04-14 11:56:48.230 [INFO ] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-14 11:56:48.237 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2024-04-14 11:56:48.239 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-14 11:56:48.242 [INFO ] com.zyc.MicroBootApplication             : Started MicroBootApplication in 0.323 seconds (process running for 6.223)
+2024-04-14 11:56:48.243 [INFO ] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-04-14 11:57:23.671 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-14 11:57:23.672 [INFO ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-14 11:57:23.672 [INFO ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-04-14 11:57:23.746 [INFO ] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2024-04-14 11:57:23.904 [WARN ] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.jdbc.BadSqlGrammarException: <EOL><EOL>### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Table 'web.article' doesn't exist<EOL><EOL>### The error may exist in com/zyc/mapper/ArticleMapper.java (best guess)<EOL><EOL>### The error may involve defaultParameterMap<EOL><EOL>### The error occurred while setting parameters<EOL><EOL>### SQL: SELECT  id,title,content,summary,category_id,thumbnail,is_top,status,view_count,is_comment,create_by,create_time,update_by,update_time,del_flag  FROM article   WHERE  del_flag=0<EOL><EOL>### Cause: java.sql.SQLSyntaxErrorException: Table 'web.article' doesn't exist<EOL>; bad SQL grammar []]
+2024-04-14 11:57:59.675 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 2400 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 11:57:59.677 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 11:57:59.711 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-14 11:57:59.711 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-14 11:58:00.362 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-04-14 11:58:00.369 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-14 11:58:00.369 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 11:58:00.370 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 11:58:00.406 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 11:58:00.407 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 694 ms
+2024-04-14 11:58:00.863 [INFO ] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-14 11:58:00.873 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2024-04-14 11:58:00.886 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-14 11:58:00.893 [INFO ] com.zyc.MicroBootApplication             : Started MicroBootApplication in 1.577 seconds (process running for 1.83)
+2024-04-14 11:58:05.786 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-14 11:58:05.786 [INFO ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-14 11:58:05.787 [INFO ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-04-14 11:58:05.906 [INFO ] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2024-04-14 11:58:06.074 [WARN ] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.jdbc.BadSqlGrammarException: <EOL><EOL>### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Table 'sg_blog.article' doesn't exist<EOL><EOL>### The error may exist in com/zyc/mapper/ArticleMapper.java (best guess)<EOL><EOL>### The error may involve defaultParameterMap<EOL><EOL>### The error occurred while setting parameters<EOL><EOL>### SQL: SELECT  id,title,content,summary,category_id,thumbnail,is_top,status,view_count,is_comment,create_by,create_time,update_by,update_time,del_flag  FROM article   WHERE  del_flag=0<EOL><EOL>### Cause: java.sql.SQLSyntaxErrorException: Table 'sg_blog.article' doesn't exist<EOL>; bad SQL grammar []]
+2024-04-14 12:01:12.468 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 9536 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 12:01:12.470 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 12:01:12.501 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-14 12:01:12.502 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-14 12:01:13.151 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-04-14 12:01:13.159 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-14 12:01:13.160 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 12:01:13.160 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 12:01:13.197 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 12:01:13.198 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 695 ms
+2024-04-14 12:01:13.731 [INFO ] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-14 12:01:13.744 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2024-04-14 12:01:13.759 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-14 12:01:13.766 [INFO ] com.zyc.MicroBootApplication             : Started MicroBootApplication in 1.655 seconds (process running for 1.901)
+2024-04-14 12:01:25.133 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-14 12:01:25.133 [INFO ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-14 12:01:25.134 [INFO ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-04-14 12:01:25.238 [INFO ] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2024-04-14 12:02:44.853 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 18604 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 12:02:44.855 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 12:02:44.886 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-14 12:02:44.887 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-14 12:02:45.550 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-04-14 12:02:45.561 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-14 12:02:45.562 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 12:02:45.562 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 12:02:45.610 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 12:02:45.612 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 724 ms
+2024-04-14 12:02:46.122 [INFO ] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-14 12:02:46.133 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2024-04-14 12:02:46.146 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-14 12:02:46.153 [INFO ] com.zyc.MicroBootApplication             : Started MicroBootApplication in 1.657 seconds (process running for 1.915)
+2024-04-14 12:02:49.001 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-14 12:02:49.002 [INFO ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-14 12:02:49.003 [INFO ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-04-14 12:02:49.109 [INFO ] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2024-04-14 12:04:20.532 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 3848 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 12:04:20.535 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 12:04:20.572 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-14 12:04:20.573 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-14 12:04:21.284 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-04-14 12:04:21.292 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-14 12:04:21.293 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 12:04:21.293 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 12:04:21.330 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 12:04:21.331 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 757 ms
+2024-04-14 12:04:21.790 [INFO ] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-14 12:04:21.800 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2024-04-14 12:04:21.814 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-14 12:04:21.821 [INFO ] com.zyc.MicroBootApplication             : Started MicroBootApplication in 1.678 seconds (process running for 1.926)
+2024-04-14 12:04:28.725 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-14 12:04:28.726 [INFO ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-14 12:04:28.727 [INFO ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-04-14 12:04:28.836 [INFO ] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2024-04-14 12:05:56.999 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 6512 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 12:05:57.001 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 12:05:57.033 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-14 12:05:57.034 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-14 12:05:57.734 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-04-14 12:05:57.742 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-14 12:05:57.743 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 12:05:57.743 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 12:05:57.780 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 12:05:57.782 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 746 ms
+2024-04-14 12:05:58.273 [INFO ] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-14 12:05:58.284 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2024-04-14 12:05:58.297 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-04-14 12:05:58.305 [INFO ] com.zyc.MicroBootApplication             : Started MicroBootApplication in 1.688 seconds (process running for 1.959)
+2024-04-14 12:06:02.217 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-14 12:06:02.218 [INFO ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-14 12:06:02.218 [INFO ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-04-14 12:06:02.326 [INFO ] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2024-04-14 17:23:07.171 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 3396 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 17:23:07.173 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 17:23:07.204 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-14 17:23:07.204 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-14 17:23:07.881 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 7777 (http)
+2024-04-14 17:23:07.888 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-7777"]
+2024-04-14 17:23:07.889 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 17:23:07.889 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 17:23:07.926 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 17:23:07.928 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 722 ms
+2024-04-14 17:23:08.406 [INFO ] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-14 17:23:08.417 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-7777"]
+2024-04-14 17:23:08.429 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 7777 (http) with context path ''
+2024-04-14 17:23:08.436 [INFO ] com.zyc.MicroBootApplication             : Started MicroBootApplication in 1.635 seconds (process running for 1.903)
+2024-04-14 17:23:17.255 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-14 17:23:17.255 [INFO ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-14 17:23:17.256 [INFO ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-04-14 17:23:17.318 [WARN ] c.b.m.c.t.support.ReflectLambdaMeta      : Unable to make field private final java.lang.Class java.lang.invoke.SerializedLambda.capturingClass accessible: module java.base does not "opens java.lang.invoke" to unnamed module @7a941165
+2024-04-14 17:23:17.417 [INFO ] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2024-04-14 17:23:17.616 [WARN ] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [java.lang.NullPointerException: Cannot invoke "com.zyc.domain.entity.Category.getName()" because "category" is null]
+2024-04-14 17:24:55.283 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 2796 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 17:24:55.285 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 17:24:55.317 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-14 17:24:55.318 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-14 17:24:56.014 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 7777 (http)
+2024-04-14 17:24:56.021 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-7777"]
+2024-04-14 17:24:56.022 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 17:24:56.022 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 17:24:56.058 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 17:24:56.059 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 740 ms
+2024-04-14 17:24:56.535 [INFO ] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-14 17:24:56.545 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-7777"]
+2024-04-14 17:24:56.559 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 7777 (http) with context path ''
+2024-04-14 17:24:56.565 [INFO ] com.zyc.MicroBootApplication             : Started MicroBootApplication in 1.654 seconds (process running for 1.91)
+2024-04-14 17:25:06.280 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-14 17:25:06.280 [INFO ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-14 17:25:06.281 [INFO ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-04-14 17:25:06.354 [WARN ] c.b.m.c.t.support.ReflectLambdaMeta      : Unable to make field private final java.lang.Class java.lang.invoke.SerializedLambda.capturingClass accessible: module java.base does not "opens java.lang.invoke" to unnamed module @7a941165
+2024-04-14 17:25:06.467 [INFO ] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2024-04-14 17:25:06.688 [WARN ] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [java.lang.NullPointerException: Cannot invoke "com.zyc.domain.entity.Category.getName()" because "category" is null]
+2024-04-14 17:27:05.332 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 2416 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 17:27:05.336 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 17:27:05.388 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-14 17:27:05.389 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-14 17:27:06.339 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 7777 (http)
+2024-04-14 17:27:06.347 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-7777"]
+2024-04-14 17:27:06.347 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 17:27:06.347 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 17:27:06.387 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 17:27:06.388 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 997 ms
+2024-04-14 17:27:06.968 [INFO ] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-14 17:27:06.980 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-7777"]
+2024-04-14 17:27:06.995 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 7777 (http) with context path ''
+2024-04-14 17:27:07.002 [INFO ] com.zyc.MicroBootApplication             : Started MicroBootApplication in 2.219 seconds (process running for 2.57)
+2024-04-14 17:27:08.358 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-14 17:27:08.358 [INFO ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-14 17:27:08.359 [INFO ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-04-14 17:27:08.428 [WARN ] c.b.m.c.t.support.ReflectLambdaMeta      : Unable to make field private final java.lang.Class java.lang.invoke.SerializedLambda.capturingClass accessible: module java.base does not "opens java.lang.invoke" to unnamed module @37515b44
+2024-04-14 17:27:08.535 [INFO ] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2024-04-14 17:27:08.757 [WARN ] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [java.lang.NullPointerException: Cannot invoke "com.zyc.domain.entity.Category.getName()" because "category" is null]
+2024-04-14 17:28:50.499 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 24216 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 17:28:50.500 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 17:28:50.532 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-14 17:28:50.532 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-14 17:28:51.219 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 7777 (http)
+2024-04-14 17:28:51.227 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-7777"]
+2024-04-14 17:28:51.227 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 17:28:51.227 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 17:28:51.264 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 17:28:51.265 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 731 ms
+2024-04-14 17:28:51.829 [INFO ] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-14 17:28:51.843 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-7777"]
+2024-04-14 17:28:51.861 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 7777 (http) with context path ''
+2024-04-14 17:28:51.869 [INFO ] com.zyc.MicroBootApplication             : Started MicroBootApplication in 1.749 seconds (process running for 2.029)
+2024-04-14 17:29:00.803 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-14 17:29:00.804 [INFO ] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-04-14 17:29:00.805 [INFO ] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-04-14 17:29:00.871 [WARN ] c.b.m.c.t.support.ReflectLambdaMeta      : Unable to make field private final java.lang.Class java.lang.invoke.SerializedLambda.capturingClass accessible: module java.base does not "opens java.lang.invoke" to unnamed module @7a941165
+2024-04-14 17:29:00.975 [INFO ] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2024-04-14 17:30:26.308 [INFO ] com.zyc.MicroBootApplication             : Starting MicroBootApplication using Java 17.0.10 with PID 13080 (D:\Item\zyc-blog\microboot\microboot-web\build\classes\java\main started by 12611 in D:\Item\zyc-blog\microboot\microboot-web)
+2024-04-14 17:30:26.309 [INFO ] com.zyc.MicroBootApplication             : The following 1 profile is active: "dev"
+2024-04-14 17:30:26.339 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-14 17:30:26.339 [INFO ] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-14 17:30:27.021 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 7777 (http)
+2024-04-14 17:30:27.028 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-7777"]
+2024-04-14 17:30:27.028 [INFO ] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-04-14 17:30:27.028 [INFO ] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2024-04-14 17:30:27.065 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-04-14 17:30:27.067 [INFO ] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 726 ms
+2024-04-14 17:30:27.547 [INFO ] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-04-14 17:30:27.558 [INFO ] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-7777"]
+2024-04-14 17:30:27.572 [INFO ] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 7777 (http) with context path ''
+2024-04-14 17:30:27.579 [INFO ] com.zyc.MicroBootApplication             : Started MicroBootApplication in 1.635 seconds (process running for 1.888)
